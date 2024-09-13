@@ -78,4 +78,5 @@ Demon Slayer is my favorite anime.</li></ul>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maqibraja&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maqibraja&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <p dir="auto"><a href="https://github.com/maqibraja" rel="nofollow"><img src="https://camo.githubusercontent.com/1533287c99585a2a7b9b7e3e11ffe42b4ed22bf9624d0bcd686e40541d04e0c4/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d6e77616c6961657a2669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=nwaliaez&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="586b97fc-4ff7-408b-8358-d2ed7048ffb8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </article>
