@@ -80,7 +80,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
   <img src="https://github.com/user-attachments/assets/0baf274c-45f1-4c41-8082-ec65e0cfbc7b/aws-knowledge-cloud-essentials.png" alt="aws-knowledge-cloud-essentials" />
 </a>
 <img src="https://github.com/maqibraja/maqibraja/blob/b8ece090be064348a4bfc0f30159f8d03a68a84e/aws-knowledge-cloud-essentials.png">
-<a href="https://github.com/maqibraja/maqibraja/blob/b8ece090be064348a4bfc0f30159f8d03a68a84e/aws-knowledge-cloud-essentials.png" target="_blank">
+<a href="https://www.credly.com/badges/586b97fc-4ff7-408b-8358-d2ed7048ffb8/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/b8ece090be064348a4bfc0f30159f8d03a68a84e/aws-knowledge-cloud-essentials.png"></a>
 https://github.com/maqibraja/maqibraja/blob/b8ece090be064348a4bfc0f30159f8d03a68a84e/aws-knowledge-cloud-essentials.png
 
