@@ -81,6 +81,9 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <a href="https://www.credly.com/badges/069137c6-a9fc-4970-a7cf-e1ded4d2fb6e/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/434431c342677afe6dab2c130a5a742c6ca5a5a2/net-workloads-on-aws-lambda.png"></a>
 
+<a href="https://www.credly.com/badges/94788edc-2795-4cc5-b0e6-59b2c0052e24/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/aws-app2container-and-net-workloads.png"></a>
+
 <h2 dir="auto"><a id="user-content--current-endeavors" class="anchor" aria-hidden="true" tabindex="-1" href="#-current-endeavors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📊 Github Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=maqibraja&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
