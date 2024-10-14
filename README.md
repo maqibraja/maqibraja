@@ -81,6 +81,9 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <a href="https://www.credly.com/badges/069137c6-a9fc-4970-a7cf-e1ded4d2fb6e/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/434431c342677afe6dab2c130a5a742c6ca5a5a2/net-workloads-on-aws-lambda.png"></a>
 
+<a href="https://www.credly.com/badges/9fddd55d-e0f1-4e19-b3d4-8d04c89ececf/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/net-workloads-on-amazon-ecs-on-aws-fargate.png"></a>
+
 <a href="https://www.credly.com/badges/94788edc-2795-4cc5-b0e6-59b2c0052e24/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/main/aws-app2container-and-net-workloads.png"></a>
 
