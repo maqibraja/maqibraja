@@ -101,6 +101,10 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <img src="https://github.com/maqibraja/maqibraja/blob/main/networking-basics.jpg"></a>
 
 
+<a href="https://www.credly.com/badges/c3bbc862-2691-4188-a82b-a93c472cb41a/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/networking-devices-and-initial-configuration.jpg"></a>
+
+
 <a href="https://www.credly.com/badges/c71c32c1-76d4-44e7-9815-896e4fcd4580/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/main/introduction-to-cybersecurity.png"></a>
 
