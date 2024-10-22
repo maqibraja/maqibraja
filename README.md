@@ -109,6 +109,10 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <img src="https://github.com/maqibraja/maqibraja/blob/main/introduction-to-cybersecurity.png"></a>
 
 
+<a href="https://www.credly.com/badges/ac45b430-ae8c-4e9e-838c-b4cbf79dca1d/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/endpoint-security.jpg"></a>
+
+
 <a href="https://www.credly.com/badges/c931786f-ec1f-4e42-bbe3-136d42934d42/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/main/ethical-hacker.png"></a>
 
