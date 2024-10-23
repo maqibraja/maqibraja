@@ -97,24 +97,24 @@ Demon Slayer is my favorite anime.</li></ul>-->
 
 <br>
 
-<a href="https://www.credly.com/badges/23d5160d-4581-4b24-819c-2989cbe7cc3e/public_url" target="_blank">
-<img src="https://github.com/maqibraja/maqibraja/blob/main/networking-basics.jpg"></a>
+<!--<a href="https://www.credly.com/badges/23d5160d-4581-4b24-819c-2989cbe7cc3e/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/networking-basics.jpg"></a>-->
 
 
 <a href="https://www.credly.com/badges/d5b8d6f7-3a33-40f9-a3d8-98958a59fdf6/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/main/network-defense.png"></a>
 
 
-<a href="https://www.credly.com/badges/c3bbc862-2691-4188-a82b-a93c472cb41a/public_url" target="_blank">
-<img src="https://github.com/maqibraja/maqibraja/blob/main/networking-devices-and-initial-configuration.jpg"></a>
+<!--<a href="https://www.credly.com/badges/c3bbc862-2691-4188-a82b-a93c472cb41a/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/networking-devices-and-initial-configuration.jpg"></a>-->
 
 
-<a href="https://www.credly.com/badges/c71c32c1-76d4-44e7-9815-896e4fcd4580/public_url" target="_blank">
-<img src="https://github.com/maqibraja/maqibraja/blob/main/introduction-to-cybersecurity.png"></a>
+<!--<a href="https://www.credly.com/badges/c71c32c1-76d4-44e7-9815-896e4fcd4580/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/introduction-to-cybersecurity.png"></a>-->
 
 
-<a href="https://www.credly.com/badges/ac45b430-ae8c-4e9e-838c-b4cbf79dca1d/public_url" target="_blank">
-<img src="https://github.com/maqibraja/maqibraja/blob/main/endpoint-security.jpg"></a>
+<!--<a href="https://www.credly.com/badges/ac45b430-ae8c-4e9e-838c-b4cbf79dca1d/public_url" target="_blank">
+<img src="https://github.com/maqibraja/maqibraja/blob/main/endpoint-security.jpg"></a>-->
 
 
 <a href="https://www.credly.com/badges/a6ff50a6-e696-479e-9327-34c5ab2b1f77/public_url" target="_blank">
