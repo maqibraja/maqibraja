@@ -27,7 +27,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://linkedin.com/in/maqibraja" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://leetcode.com/yourusername" target="_blank">
+    <a href="https://leetcode.com/u/maqibraja/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FE7A16?logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
