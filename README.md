@@ -142,11 +142,9 @@ Demon Slayer is my favorite anime.</li></ul>-->
 ![](https://github-readme-stats.vercel.app/api?username=maqibraja&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maqibraja&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maqibraja&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>-->
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat" alt="maqibraja" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
