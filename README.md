@@ -1,30 +1,31 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="animated" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+        alt="animated" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat" alt="maqibraja" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat"
+        alt="maqibraja" />
+</p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat" alt="maqibraja" />-->
 <!--<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">-->
-<h2 dir="auto"><a id="user-content--current-endeavors" class="anchor" aria-hidden="true" tabindex="-1" href="#-current-endeavors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💫 About Me</h2>
+
+<h2 dir="auto">💫 About Me</h2>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 <!--<ul dir="auto">
 🔭 I’m currently working on:<br>
 Improving cloud-based solutions and implementing microservices architecture.</ul>-->
-<ul dir="auto">
-👯 I’m looking to collaborate on:<br>
-Fullstack Projects</li></ul>
-<ul dir="auto">
-🌱 I’m currently learning:<br>
-Advanced AWS Services and  Devops.</li></ul>
-<ul dir="auto">💬 Ask me about:<br>
-JavaScript, React JS, React Native, Flutter, AWS, and any general software development questions.</li></ul>
-<!--<ul dir="auto">⚡ Fun fact:<br>
+<ul dir="auto">👯 I’m looking to collaborate on:<br>Fullstack Projects</ul>
+<ul dir="auto">🌱 I’m currently learning:<br>Advanced AWS Services and DevOps.</ul>
+<ul dir="auto">💬 Ask me about:<br>JavaScript, React JS, React Native, Flutter, AWS, and any general software
+    development questions.</ul>
+    <!--<ul dir="auto">⚡ Fun fact:<br>
 Demon Slayer is my favorite anime.</li></ul>-->
 <!--<li>Check out my <a href="https://www.cygnus.com/" rel="nofollow">website</a> to learn more about me.</li>-->
 <!--<li>Explore my <a href="https://maqibraja.hashnode.dev/" rel="nofollow">blog</a> where I share insights and learnings.</li>-->
-<h2 dir="auto"><a id="user-content--current-endeavors" class="anchor" aria-hidden="true" tabindex="-1" href="#-current-endeavors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🌐 Socials:</h2>
 
+<h2 dir="auto">🌐 Socials:</h2>
 <p align="center">
   
 <a href="https://linkedin.com/in/maqibraja" target="_blank" style="margin-right: 10px;">
@@ -41,7 +42,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
   
 </p>
 
-<h2 dir="auto"><a id="user-content--current-endeavors" class="anchor" aria-hidden="true" tabindex="-1" href="#-current-endeavors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>💻 Tech Stack:</h2>
+<h2 dir="auto">💻 Tech Stack:</h2>
 <p align="center">
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"></a>
@@ -85,8 +86,9 @@ Demon Slayer is my favorite anime.</li></ul>-->
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"></a>
+</p>
 
-<h2 dir="auto"><a id="user-content--current-endeavors" class="anchor" aria-hidden="true" tabindex="-1" href="#-current-endeavors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🎖️ Badges:</h2>
+<h2 dir="auto">🎖️ Badges:</h2>
 <p align="center">
 <a href="https://www.credly.com/badges/586b97fc-4ff7-408b-8358-d2ed7048ffb8/public_url" target="_blank">
 <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/aws-knowledge-cloud-essentials.png"></a>
@@ -141,12 +143,47 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <img src="https://github.com/maqibraja/maqibraja/blob/main/ethical-hacker.png"></a>-->
 </p>
 
+<!-- GITHUB STATS SECTION -->
+<div>
+    <h2 align="left">📊 GitHub Stats:</h2>
 
-<!--<h2 dir="auto"><a id="user-content--current-endeavors" class="anchor" aria-hidden="true" tabindex="-1" href="#-current-endeavors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📊 Github Stats</h2>
+    <div align="center">
+        <p>
+            <img src="https://github-readme-stats.vercel.app/api?username=maqibraja&theme=radical&hide_border=false&include_all_commits=false&count_private=true"
+                alt="GitHub Stats">
+        </p>
 
-![](https://github-readme-stats.vercel.app/api?username=maqibraja&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maqibraja&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maqibraja&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>-->
+        <p>
+            <img src="https://nirzak-streak-stats.vercel.app/?user=maqibraja&theme=radical&hide_border=false"
+                alt="GitHub Streak">
+        </p>
 
+        <p>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqibraja&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
+                alt="Top Languages">
+        </p>
+    </div>
 
-</article>
+    <h2 align="left">🏆 GitHub Trophies</h2>
+    <div align="center">
+        <p>
+            <img src="https://github-profile-trophy.vercel.app/?username=maqibraja&theme=radical&no-frame=true&no-bg=false&margin-w=4"
+                alt="GitHub Trophies">
+        </p>
+    </div>
+
+    <h2 align="left">✍️ Random Dev Quote</h2>
+    <div align="center">
+        <p>
+            <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote">
+        </p>
+    </div>
+
+    <h2 align="left">🔝 Top Contributed Repo</h2>
+    <div align="center">
+        <p>
+            <img src="https://github-contributor-stats.vercel.app/api?username=maqibraja&limit=5&theme=radical&combine_all_yearly_contributions=true"
+                alt="Top Repositories">
+        </p>
+    </div>
+</div>
