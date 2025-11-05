@@ -144,7 +144,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
 </p>
 
 <!-- GITHUB STATS SECTION -->
-<div>
+<!--<div>
     <h2 align="left">📊 GitHub Stats:</h2>
 
     <div align="center">
@@ -186,4 +186,4 @@ Demon Slayer is my favorite anime.</li></ul>-->
                 alt="Top Repositories">
         </p>
     </div>
-</div>
+</div>-->
