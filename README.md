@@ -25,7 +25,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <!--<li>Check out my <a href="https://www.cygnus.com/" rel="nofollow">website</a> to learn more about me.</li>-->
 <!--<li>Explore my <a href="https://maqibraja.hashnode.dev/" rel="nofollow">blog</a> where I share insights and learnings.</li>-->
 
-<h2 dir="auto">🌐 Socials:</h2>
+<h2 dir="auto">🌐 Socials</h2>
 <p align="center">
   
 <a href="https://linkedin.com/in/maqibraja" target="_blank" style="margin-right: 10px;">
@@ -42,7 +42,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
   
 </p>
 
-<h2 dir="auto">💻 Tech Stack:</h2>
+<h2 dir="auto">💻 Tech Stack</h2>
 <p align="center">
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"></a>
@@ -88,7 +88,23 @@ Demon Slayer is my favorite anime.</li></ul>-->
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"></a>
 </p>
 
-<h2 dir="auto">🎖️ Badges:</h2>
+<h2 dir="auto">🎓 Certifications</h2>
+<p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8A8A4DCD6B089D0A8B8BB166EB7CCDB411B09D4DF29C45CDBCB697DFD94F7340" target="_blank">
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20DevOps%20Professional.jpg" width="300" alt="Certified DevOps Professional"></a>
+
+  <a href="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" width="300" alt="Certified DevOps Professional"></a>
+
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3C8D331853229FE0B29AFBF0A8741C827AF2D58F4132D6637EBB42661A34EBE" target="_blank">
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20Developer%20Professional.jpg" width="300" alt="Certified DevOps Professional"></a>
+  
+</p>
+
+
+
+
+<h2 dir="auto">🎖️ Badges</h2>
 <p align="center">
 <a href="https://www.credly.com/badges/586b97fc-4ff7-408b-8358-d2ed7048ffb8/public_url" target="_blank">
 <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/aws-knowledge-cloud-essentials.png"></a>
@@ -145,7 +161,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
 
 <!-- GITHUB STATS SECTION -->
 <!-- 📊 GITHUB STATS SECTION -->
-<h2 dir="auto">📊 GitHub Stats:</h2>
+<h2 dir="auto">📊 GitHub Stats</h2>
 <p align="center">
     <!--<a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=maqibraja&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
@@ -159,7 +175,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
     </a>
 </p>
 
-<h2 dir="auto">🏆 GitHub Trophies:</h2>
+<h2 dir="auto">🏆 GitHub Trophies</h2>
 <p align="center">
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=maqibraja&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
