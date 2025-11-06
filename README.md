@@ -88,7 +88,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"></a>
 </p>
 
-<h2 align="center">🎓 Certifications</h2>
+<h2 dir="auto">🎓 Certifications</h2>
 
 <p align="center">
   <!-- Oracle Certified DevOps Professional -->
@@ -103,8 +103,6 @@ Demon Slayer is my favorite anime.</li></ul>-->
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3C8D331853229FE0B29AFBF0A8741C827AF2D58F4132D6637EBB42661A34EBE" target="_blank">
     <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20Developer%20Professional.jpg" width="200" alt="Oracle Certified Developer Professional" style="margin: 10px;"></a>
 </p>
-
-
 
 
 
