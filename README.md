@@ -88,18 +88,25 @@ Demon Slayer is my favorite anime.</li></ul>-->
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js"></a>
 </p>
 
-<h2 dir="auto">🎓 Certifications</h2>
+<h2 align="center">🎓 Certifications</h2>
+
 <p align="center">
+  <!-- Oracle Certified DevOps Professional -->
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8A8A4DCD6B089D0A8B8BB166EB7CCDB411B09D4DF29C45CDBCB697DFD94F7340" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20DevOps%20Professional.jpg" width="300" alt="Certified DevOps Professional"></a>
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20DevOps%20Professional.jpg" width="300" alt="Oracle Certified DevOps Professional" style="margin: 10px;">
+  </a>
 
+  <!-- DevOps Training -->
   <a href="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" width="300" alt="Certified DevOps Professional"></a>
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" width="300" alt="DevOps Training Certification" style="margin: 10px;">
+  </a>
 
-    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3C8D331853229FE0B29AFBF0A8741C827AF2D58F4132D6637EBB42661A34EBE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20Developer%20Professional.jpg" width="300" alt="Certified DevOps Professional"></a>
-  
+  <!-- Oracle Certified Developer Professional -->
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3C8D331853229FE0B29AFBF0A8741C827AF2D58F4132D6637EBB42661A34EBE" target="_blank">
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20Developer%20Professional.jpg" width="300" alt="Oracle Certified Developer Professional" style="margin: 10px;">
+  </a>
 </p>
+
 
 
 
