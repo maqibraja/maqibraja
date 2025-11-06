@@ -93,18 +93,15 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <p align="center">
   <!-- Oracle Certified DevOps Professional -->
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8A8A4DCD6B089D0A8B8BB166EB7CCDB411B09D4DF29C45CDBCB697DFD94F7340" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20DevOps%20Professional.jpg" width="300" alt="Oracle Certified DevOps Professional" style="margin: 10px;">
-  </a>
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20DevOps%20Professional.jpg" width="150" alt="Oracle Certified DevOps Professional" style="margin: 10px;"></a>
 
   <!-- DevOps Training -->
   <a href="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" width="300" alt="DevOps Training Certification" style="margin: 10px;">
-  </a>
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Devops%20Training.jpg" width="150" alt="DevOps Training Certification" style="margin: 10px;"></a>
 
   <!-- Oracle Certified Developer Professional -->
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D3C8D331853229FE0B29AFBF0A8741C827AF2D58F4132D6637EBB42661A34EBE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20Developer%20Professional.jpg" width="300" alt="Oracle Certified Developer Professional" style="margin: 10px;">
-  </a>
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Certifications/Certified%20Developer%20Professional.jpg" width="150" alt="Oracle Certified Developer Professional" style="margin: 10px;"></a>
 </p>
 
 
