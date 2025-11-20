@@ -177,12 +177,12 @@ Demon Slayer is my favorite anime.</li></ul>-->
     </a>
 </p>
 
-<h2 dir="auto">🏆 GitHub Trophies</h2>
+<!--<h2 dir="auto">🏆 GitHub Trophies</h2>
 <p align="center">
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=maqibraja&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
     </a>
-</p>
+</p>-->
 
 <!--<h2 dir="auto">✍️ Random Dev Quote:</h2>
 <p align="center">
