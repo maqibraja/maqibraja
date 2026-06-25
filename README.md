@@ -163,14 +163,14 @@ Demon Slayer is my favorite anime.</li></ul>-->
 
 <!-- GITHUB STATS SECTION -->
 <!-- 📊 GITHUB STATS SECTION -->
-<h2 dir="auto">📊 GitHub Stats</h2>
+<!--<h2 dir="auto">📊 GitHub Stats</h2>
 <p align="center">
     <!--<a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=maqibraja&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
     </a>-->
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://nirzak-streak-stats.vercel.app/?user=maqibraja&theme=radical&hide_border=false" alt="GitHub Streak">
-    </a>
+    </a>-->
 <!--    <br>
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
