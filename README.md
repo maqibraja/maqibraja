@@ -161,30 +161,32 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <img src="https://github.com/maqibraja/maqibraja/blob/main/ethical-hacker.png"></a>-->
 </p>
 
-<!-- GITHUB STATS SECTION -->
-<!-- 📊 GITHUB STATS SECTION -->
-<!--<h2 dir="auto">📊 GitHub Stats</h2>
+<!--
+<h2 dir="auto">📊 GitHub Stats</h2>
 <p align="center">
-    <!--<a href="https://github.com/maqibraja" target="_blank">
+    <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=maqibraja&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
-    </a>-->
+    </a>
+
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://nirzak-streak-stats.vercel.app/?user=maqibraja&theme=radical&hide_border=false" alt="GitHub Streak">
-    </a>-->
-<!--    <br>
+    </a>
+
+    <br>
+
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </a>
-</p>-->
+</p>
 
-<!--<h2 dir="auto">🏆 GitHub Trophies</h2>
+<h2 dir="auto">🏆 GitHub Trophies</h2>
 <p align="center">
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=maqibraja&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
     </a>
-</p>-->
+</p>
 
-<!--<h2 dir="auto">✍️ Random Dev Quote:</h2>
+<h2 dir="auto">✍️ Random Dev Quote:</h2>
 <p align="center">
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote">
@@ -196,4 +198,7 @@ Demon Slayer is my favorite anime.</li></ul>-->
     <a href="https://github.com/maqibraja" target="_blank">
         <img src="https://github-contributor-stats.vercel.app/api?username=maqibraja&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repositories">
     </a>
-</p>-->
+</p>
+-->
+```
+
