@@ -48,13 +48,6 @@ Demon Slayer is my favorite anime.</li></ul>-->
 
 <a href="https://medium.com/@maqibraja" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-
-
-  <a href="https://calendly.com/maqibraja" target="_blank" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Calendly-006BFF?logo=calendly&logoColor=white" alt="Calendly"></a>
-
-<a href="https://tally.so/r/gDGBOd" target="_blank">
-  <img src="https://img.shields.io/badge/Tally-6246EA?logo=tally&logoColor=white" alt="Tally Form"></a>
   
 </p>
 
