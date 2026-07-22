@@ -3,8 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat" alt="maqibraja" /> </p>
 
 <p align="center">
+  <strong>🏆 Top 50 GitHub Committer in Pakistan 🇵🇰</strong><br><br>
   <a href="https://committers.top/pakistan_private#maqibraja">
-    <img src="https://user-badge.committers.top/pakistan_private/maqibraja.svg" alt="committers.top badge" />
+    <img src="https://user-badge.committers.top/pakistan_private/maqibraja.svg" alt="Committers.top Badge">
   </a>
 </p>
 
