@@ -8,19 +8,6 @@
   </a>
 </p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=maqibraja&data=followers,repositories,stars,commits)](https://github.com/maqibraja)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=maqibraja&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/maqibraja)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,php,dart,java,html,css,c,cpp,bash,json,yaml,mysql,postgresql,markdown&includeNames=true)](https://github.com/maqibraja)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,flutter,express,bootstrap,tailwind,laravel,angular,django,nest,dotnetcore&includeNames=true)](https://github.com/maqibraja)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?libraries=jquery,tensorflow,babel&includeNames=true)](https://github.com/maqibraja)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,nodejs,npm,yarn,mongodb,aws,firebase,wordpress,vercel,apache,nginx,redis,gradle,prettier&includeNames=true)](https://github.com/maqibraja)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,linux,vscode&includeNames=true)](https://github.com/maqibraja)
 <!--
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
