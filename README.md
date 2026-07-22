@@ -51,6 +51,28 @@ Demon Slayer is my favorite anime.</li></ul>-->
   
 </p>
 
+
+<h2 dir="auto">📬 Contact</h2>
+
+<p align="center">
+
+<a href="mailto:maqibraja@hotmail.com" target="_blank" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://calendly.com/maqibraja" target="_blank" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Calendly-006BFF?logo=calendly&logoColor=white" alt="Calendly">
+</a>
+
+<a href="https://tally.so/r/gDGBOd" target="_blank">
+  <img src="https://img.shields.io/badge/Tally-6C63FF?logo=tally&logoColor=white" alt="Tally Form">
+</a>
+
+</p>
+
+
+
+
 <h2 dir="auto">💻 Tech Stack</h2>
 <p align="center">
 <a href="#" target="_blank">
