@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://committers.top/pakistan_private#maqibraja">
-    <img src="https://user-badge.committers.top/pakistan_private/maqibraja.svg?v=20260722"
-         alt="committers.top badge" />
+    <img src="https://img.shields.io/badge/Committers.top-Pakistan%20%2350-brightgreen?style=for-the-badge" />
   </a>
 </p>
 
