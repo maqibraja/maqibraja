@@ -1,22 +1,22 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=maqibraja&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat"
+        alt="maqibraja" />
+</p>
+
+<p align="center">
   <a href="https://committers.top/pakistan_private#maqibraja">
     <img src="https://user-badge.committers.top/pakistan_private/maqibraja.svg" alt="committers.top badge" />
   </a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/pakistan_private/maqibraja.svg)](https://committers.top/pakistan_private#maqibraja)
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
         alt="animated" />
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat"
-        alt="maqibraja" />
-</p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat" alt="maqibraja" />-->
 <!--<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" data-canonical-src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&amp;token=91c0c7b2-93c3-4029-b011-1a8703c5730d" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">-->
