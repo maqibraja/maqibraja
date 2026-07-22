@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://committers.top/pakistan_private#maqibraja">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Committers.top-Top%2050%20in%20Pakistan-0E75B6?style=for-the-badge" alt="Top 50 Committers Pakistan" />
+    <img src="https://img.shields.io/badge/Committers.top-Rank%20%2350-0e75b6?style=flat" alt="Committers.top Rank #50" />
   </a>
 </p>
 
