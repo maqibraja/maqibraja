@@ -1,12 +1,13 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=maqibraja&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat" alt="maqibraja" /> </p>
+
 <p align="center">
   <a href="https://committers.top/pakistan_private#maqibraja">
     <img src="https://user-badge.committers.top/pakistan_private/maqibraja.svg" alt="committers.top badge" />
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maqibraja&label=Profile%20views&color=0e75b6&style=flat" alt="maqibraja" /> </p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
