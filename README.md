@@ -184,11 +184,19 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <a href="https://www.credly.com/badges/b42b157d-29ee-456a-921c-20337ba5d632/public_url" target="_blank">
 <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/junior-cybersecurity-analyst-career-path.1.png"></a>
 
-<a href="https://www.credly.com/badges/734923b6-38d3-4908-a9dd-475a617aa347/public_url" target="_blank">
-<img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfs162-introduction-to-devops-and-site-reliability-.png"></a>
+<!-- Existing badges -->
 
-<a href="https://www.credly.com/badges/f74f4008-6658-4be4-b2f8-45697c7c4a8c/public_url" target="_blank">
-<img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfc108-cybersecurity-essentials.png"></a>
+<p align="center">
+
+  <a href="https://www.credly.com/badges/734923b6-38d3-4908-a9dd-475a617aa347/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfs162-introduction-to-devops-and-site-reliability-.png" alt="LFS162 Badge" />
+  </a>
+
+  <a href="https://www.credly.com/badges/f74f4008-6658-4be4-b2f8-45697c7c4a8c/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfc108-cybersecurity-essentials.png" alt="LFC108 Badge" />
+  </a>
+
+</p>
 
 <!--<a href="https://www.credly.com/badges/c931786f-ec1f-4e42-bbe3-136d42934d42/public_url" target="_blank">
 <img src="https://github.com/maqibraja/maqibraja/blob/main/ethical-hacker.png"></a>-->
