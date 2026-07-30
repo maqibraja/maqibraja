@@ -135,12 +135,12 @@ Demon Slayer is my favorite anime.</li></ul>-->
 
 <h2 dir="auto">🎖️ Badges</h2>
 <p align="center">
-<a href="https://www.credly.com/badges/586b97fc-4ff7-408b-8358-d2ed7048ffb8/public_url" target="_blank">
-<img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/aws-knowledge-cloud-essentials.png"></a>
-
 
 <a href="https://www.credly.com/badges/069137c6-a9fc-4970-a7cf-e1ded4d2fb6e/public_url" target="_blank">
 <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/net-workloads-on-aws-lambda.png"></a>
+  
+<a href="https://www.credly.com/badges/586b97fc-4ff7-408b-8358-d2ed7048ffb8/public_url" target="_blank">
+<img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/aws-knowledge-cloud-essentials.png"></a>
 
 
 <a href="https://www.credly.com/badges/b42b157d-29ee-456a-921c-20337ba5d632/public_url" target="_blank">
