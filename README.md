@@ -36,8 +36,8 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <h2 dir="auto">🌐 Socials</h2>
 <p align="center">
 
-<a href="https://openprofile.dev/profile/maqibraja" target="_blank" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Linux%20Foundation-0094D8?logo=linuxfoundation&logoColor=white" alt="Linux Foundation"></a>
+<a href="https://openprofile.dev/profile/maqibraja" target="_blank">
+  <img src="https://img.shields.io/badge/Linux%20Foundation-555555?logo=linuxfoundation&logoColor=white" alt="Linux Foundation"></a>
   
 <a href="https://linkedin.com/in/maqibraja" target="_blank" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
