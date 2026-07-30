@@ -143,6 +143,10 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/net-workloads-on-aws-lambda.png"></a>
 
 
+<a href="https://www.credly.com/badges/b42b157d-29ee-456a-921c-20337ba5d632/public_url" target="_blank">
+<img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/junior-cybersecurity-analyst-career-path.1.png"></a>
+
+
 <a href="https://www.credly.com/badges/94788edc-2795-4cc5-b0e6-59b2c0052e24/public_url" target="_blank">
 <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/aws-app2container-and-net-workloads.png"></a>
 
@@ -181,8 +185,6 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <img src="https://github.com/maqibraja/maqibraja/blob/main/cyber-threat-management.png"></a>-->
 
 
-<a href="https://www.credly.com/badges/b42b157d-29ee-456a-921c-20337ba5d632/public_url" target="_blank">
-<img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/junior-cybersecurity-analyst-career-path.1.png"></a>
 
 <!-- Existing badges -->
 
