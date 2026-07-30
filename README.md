@@ -189,12 +189,10 @@ Demon Slayer is my favorite anime.</li></ul>-->
 <p align="center">
 
   <a href="https://www.credly.com/badges/734923b6-38d3-4908-a9dd-475a617aa347/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfs162-introduction-to-devops-and-site-reliability-.png" alt="LFS162 Badge" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfs162-introduction-to-devops-and-site-reliability-.png" alt="LFS162 Badge" /></a>
 
   <a href="https://www.credly.com/badges/f74f4008-6658-4be4-b2f8-45697c7c4a8c/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfc108-cybersecurity-essentials.png" alt="LFC108 Badge" />
-  </a>
+    <img src="https://raw.githubusercontent.com/maqibraja/maqibraja/refs/heads/main/Badges/lfc108-cybersecurity-essentials.png" alt="LFC108 Badge" /></a>
 
 </p>
 
